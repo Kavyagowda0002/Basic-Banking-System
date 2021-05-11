@@ -1,0 +1,29 @@
+.navbar-brand{
+    list-style-type: sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: oblique;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: teal;
+  }
+  
+  .nav-brand{
+    float: left;
+  }
+  
+  .nav-link{
+    display: block;
+    font-size: 1.3em;
+    color: rgb(214, 163, 163);
+    text-align: center;
+    text-shadow: 0.5em;
+    text-decoration-color:none;
+    padding: 14px 16px;
+    
+  }
+  
+  .nav-link:hover {
+    background-color: rgb(187, 170, 170);
+  }
